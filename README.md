@@ -1,1 +1,1 @@
-# odin-recipies
+This is my begining of reflecting the little I have so far on OdinProjects
